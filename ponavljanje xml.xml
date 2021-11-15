@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE college SYSTEM "vjezbe dtd.dtd">
+<college>
+	<class>
+		<className>Web Arhitekture</className>
+		<teacher>Muhamed Begović</teacher>
+		<time>09:15</time>
+		<day>Ponedjeljak</day>
+	</class>
+	<class>
+		<className>Bežični Komunikacijski Sistemi</className>
+		<teacher>Nermin Goran</teacher>
+		<time>09:15</time>
+		<day>Petak</day>
+	</class>
+</college>
+

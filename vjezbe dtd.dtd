@@ -1,0 +1,7 @@
+<!ELEMENT college (class+)>
+<!ELEMENT class (className,teacher,time,day)>
+<!ELEMENT className (#PCDATA)>
+<!ELEMENT teacher (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT day (#PCDATA)>
+
